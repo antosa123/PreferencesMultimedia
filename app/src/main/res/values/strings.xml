@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PreferencesMultimedia</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings_Activity</string>
+    <string name="title_activity_opciones_fragment">OpcionesFragment</string>
+    <string name="title_activity_opciones">OpcionesActivity</string>
+</resources>
